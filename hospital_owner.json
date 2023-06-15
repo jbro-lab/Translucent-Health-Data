@@ -1,0 +1,47 @@
+{
+    "hospital_owner": [
+    {
+      "id": 1,
+      "name": "Intermountain Healthcare"
+    },
+    {
+      "id": 2,
+      "name": "HCA Healthcare"
+    },
+    {
+      "id": 3,
+      "name": "LifePoint Health"
+    },
+    {
+      "id": 4,
+      "name": "Steward Health Care System"
+    },
+    {
+      "id": 5,
+      "name": "Encompass Health"
+    },
+    {
+      "id": 6,
+      "name": "Luna On-Demand Physical Therapy"
+    },
+    {
+      "id": 7,
+      "name": "Quorum Health"
+    },
+    {
+      "id": 8,
+      "name": "Ernest Health"
+    },
+    {
+      "id": 9,
+      "name": "Universal Health Services"
+    },
+    {
+      "id": 10,
+      "name": "Shriners Hospitals for Children"
+    },
+    {
+      "id": 11,
+      "name": "University of Utah Hospitals and Clinics"
+    }
+   ]}

@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "service_name": "x-ray"
+    },
+    {
+      "id": 2,
+      "service_name": "xray"
+    },
+    {
+      "id": 3,
+      "service_name": "mri"
+    },
+    {
+      "id": 4,
+      "service_name": "magnetic resonance imaging"
+    },
+    {
+      "id": 5,
+      "service_name": "ct "
+    },
+    {
+      "id": 6,
+      "service_name": "Computed Tomography"
+    },
+    {
+      "id": 7,
+      "service_name": "pet "
+    },
+    {
+      "id": 8,
+      "service_name": "positron emission tomography"
+    },
+    {
+      "id": 9,
+      "service_name": "ultrasound"
+    },
+    {
+      "id": 10,
+      "service_name": "rhinoplasty"
+    },
+    {
+      "id": 11,
+      "service_name": "rhytidectomy"
+    },
+    {
+      "id": 12,
+      "service_name": "botox"
+    },
+    {
+      "id": 13,
+      "service_name": "pump"
+    },
+    {
+      "id": 14,
+      "service_name": "laser"
+    },
+    {
+      "id": 15,
+      "service_name": "hernia"
+    },
+    {
+      "id": 16,
+      "service_name": "kidneycircumcision"
+    },
+    {
+      "id": 17,
+      "service_name": "blepharoplasty"
+    },
+    {
+      "id": 18,
+      "service_name": "abdominoplasty"
+    },
+    {
+      "id": 19,
+      "service_name": "hysterectomy"
+    },
+    {
+      "id": 20,
+      "service_name": "vasectomy"
+    },
+    {
+      "id": 21,
+      "service_name": "appendectomy"
+    },
+    {
+      "id": 22,
+      "service_name": "appendix"
+    },
+    {
+      "id": 23,
+      "service_name": "lift"
+    },
+    {
+      "id": 24,
+      "service_name": "gynecomastia"
+    },
+    {
+      "id": 25,
+      "service_name": "dermabrasion"
+    },
+    {
+      "id": 26,
+      "service_name": "transplant"
+    },
+    {
+      "id": 27,
+      "service_name": "augmentation"
+    },
+    {
+      "id": 28,
+      "service_name": "replacement"
+    },
+    {
+      "id": 29,
+      "service_name": "removal"
+    },
+    {
+      "id": 30,
+      "service_name": "surgery"
+    },
+    {
+      "id": 31,
+      "service_name": "circumcision"
+    },
+    {
+      "id": 32,
+      "service_name": "repair"
+    },
+    {
+      "id": 33,
+      "service_name": "biopsy"
+    },
+    {
+      "id": 34,
+      "service_name": "endoscopic"
+    },
+    {
+      "id": 35,
+      "service_name": "sample"
+    },
+    {
+      "id": 36,
+      "service_name": "stool"
+    },
+    {
+      "id": 37,
+      "service_name": "drug screen"
+    },
+    {
+      "id": 38,
+      "service_name": "mammogram"
+    },
+    {
+      "id": 39,
+      "service_name": "colonoscopy"
+    },
+    {
+      "id": 40,
+      "service_name": "cancer"
+    },
+    {
+      "id": 41,
+      "service_name": "scoliosis"
+    },
+    {
+      "id": 42,
+      "service_name": "celiac"
+    },
+    {
+      "id": 43,
+      "service_name": "screen"
+    },
+    {
+      "id": 44,
+      "service_name": "evaluation"
+    }
+   ]

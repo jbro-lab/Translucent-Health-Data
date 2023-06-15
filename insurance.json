@@ -1,0 +1,538 @@
+[
+    {
+      "id": 1,
+      "insurance_name": "Aetna Standard Network AKA Aetna Health Plan Network for Utah Limited Services"
+    },
+    {
+      "id": 2,
+      "insurance_name": "Aetna Utah Connected Network Inpatient"
+    },
+    {
+      "id": 3,
+      "insurance_name": "Aetna Utah Connected Network Outpatient"
+    },
+    {
+      "id": 4,
+      "insurance_name": "Altius (Coventry) Limited Facility Limited Services"
+    },
+    {
+      "id": 5,
+      "insurance_name": "BCBS Association-Blue Card PPO Plan Limited Services"
+    },
+    {
+      "id": 6,
+      "insurance_name": "BCBS Association-Blue Card PPO Plan Limited Services-Outpatient"
+    },
+    {
+      "id": 7,
+      "insurance_name": "BCBS Association-Blue Card Traditional Plan Inpatient"
+    },
+    {
+      "id": 8,
+      "insurance_name": "BCBS Association-Blue Card Traditional Plan Outpatient"
+    },
+    {
+      "id": 9,
+      "insurance_name": "Big-D Construction Inpatient"
+    },
+    {
+      "id": 10,
+      "insurance_name": "Big-D Construction Outpatient"
+    },
+    {
+      "id": 11,
+      "insurance_name": "BYU Risk Management  Inpatient"
+    },
+    {
+      "id": 12,
+      "insurance_name": "BYU Risk Management  Outpatient"
+    },
+    {
+      "id": 13,
+      "insurance_name": "Campbell Scientific Inpatient"
+    },
+    {
+      "id": 14,
+      "insurance_name": "Campbell Scientific Outpatient"
+    },
+    {
+      "id": 15,
+      "insurance_name": "CCCM Inpatient"
+    },
+    {
+      "id": 16,
+      "insurance_name": "CCCM Outpatient"
+    },
+    {
+      "id": 17,
+      "insurance_name": "CIGNA Managed Care (HMO or Open Access Plus aka OAP) Limited Services"
+    },
+    {
+      "id": 18,
+      "insurance_name": "CIGNA PPO and EPO Inpatient"
+    },
+    {
+      "id": 19,
+      "insurance_name": "CIGNA PPO and EPO Outpatient"
+    },
+    {
+      "id": 20,
+      "insurance_name": "CIGNA Utah Connect Limited Services"
+    },
+    {
+      "id": 21,
+      "insurance_name": "Corporation of the President Inpatient"
+    },
+    {
+      "id": 22,
+      "insurance_name": "Corporation of the President Outpatient"
+    },
+    {
+      "id": 23,
+      "insurance_name": "CorVel Corporation Inpatient"
+    },
+    {
+      "id": 24,
+      "insurance_name": "CorVel Corporation Outpatient"
+    },
+    {
+      "id": 25,
+      "insurance_name": "Dixie State University Inpatient"
+    },
+    {
+      "id": 26,
+      "insurance_name": "Dixie State University Outpatient"
+    },
+    {
+      "id": 27,
+      "insurance_name": "DMBA Deseret Premier Inpatient"
+    },
+    {
+      "id": 28,
+      "insurance_name": "DMBA Deseret Premier Outpatient"
+    },
+    {
+      "id": 29,
+      "insurance_name": "DMBA Deseret Select Inpatient"
+    },
+    {
+      "id": 30,
+      "insurance_name": "DMBA Deseret Select Outpatient"
+    },
+    {
+      "id": 31,
+      "insurance_name": "DMBA Deseret Value Inpatient"
+    },
+    {
+      "id": 32,
+      "insurance_name": "DMBA Deseret Value Outpatient"
+    },
+    {
+      "id": 33,
+      "insurance_name": "EMI Health AS Only Inpatient"
+    },
+    {
+      "id": 34,
+      "insurance_name": "EMI Health AS Only Outpatient"
+    },
+    {
+      "id": 35,
+      "insurance_name": "EMI Health Choice Inpatient"
+    },
+    {
+      "id": 36,
+      "insurance_name": "EMI Health Choice Outpatient"
+    },
+    {
+      "id": 37,
+      "insurance_name": "EMI Health Network Care Inpatient"
+    },
+    {
+      "id": 38,
+      "insurance_name": "EMI Health Network Care Outpatient"
+    },
+    {
+      "id": 39,
+      "insurance_name": "EMI Health Non-AS Inpatient"
+    },
+    {
+      "id": 40,
+      "insurance_name": "EMI Health Non-AS Outpatient"
+    },
+    {
+      "id": 41,
+      "insurance_name": "Franklin County Inpatient"
+    },
+    {
+      "id": 42,
+      "insurance_name": "Franklin County Medical Center Inpatient"
+    },
+    {
+      "id": 43,
+      "insurance_name": "Franklin County Medical Center Outpatient"
+    },
+    {
+      "id": 44,
+      "insurance_name": "Franklin County Outpatient"
+    },
+    {
+      "id": 45,
+      "insurance_name": "Global Excel Inpatient"
+    },
+    {
+      "id": 46,
+      "insurance_name": "Global Excel Outpatient"
+    },
+    {
+      "id": 47,
+      "insurance_name": "Health Utah Limited Services"
+    },
+    {
+      "id": 48,
+      "insurance_name": "Humana ChoiceCare Limited Services"
+    },
+    {
+      "id": 49,
+      "insurance_name": "Hygeia Corporation Inpatient"
+    },
+    {
+      "id": 50,
+      "insurance_name": "Hygeia Corporation Outpatient"
+    },
+    {
+      "id": 51,
+      "insurance_name": "iFIT Inpatient"
+    },
+    {
+      "id": 52,
+      "insurance_name": "iFIT Outpatient"
+    },
+    {
+      "id": 53,
+      "insurance_name": "Injury Care of Nevada Inpatient"
+    },
+    {
+      "id": 54,
+      "insurance_name": "Injury Care of Nevada Outpatient"
+    },
+    {
+      "id": 55,
+      "insurance_name": "Inovar Inpatient"
+    },
+    {
+      "id": 56,
+      "insurance_name": "Inovar Outpatient"
+    },
+    {
+      "id": 57,
+      "insurance_name": "Juniper Systems Inpatient"
+    },
+    {
+      "id": 58,
+      "insurance_name": "Juniper Systems Outpatient"
+    },
+    {
+      "id": 59,
+      "insurance_name": "Limited Services-Inpatient"
+    },
+    {
+      "id": 60,
+      "insurance_name": "LW Miller Inpatient"
+    },
+    {
+      "id": 61,
+      "insurance_name": "LW Miller Outpatient"
+    },
+    {
+      "id": 62,
+      "insurance_name": "Managed Care Administrators, Inc. Inpatient"
+    },
+    {
+      "id": 63,
+      "insurance_name": "Managed Care Administrators, Inc. Outpatient"
+    },
+    {
+      "id": 64,
+      "insurance_name": "MedCare International, Inc. Inpatient"
+    },
+    {
+      "id": 65,
+      "insurance_name": "MedCare International, Inc. Outpatient"
+    },
+    {
+      "id": 66,
+      "insurance_name": "Molina CHIP Limited Services"
+    },
+    {
+      "id": 67,
+      "insurance_name": "Molina Marketplace Limited Services"
+    },
+    {
+      "id": 68,
+      "insurance_name": "MotivHealth Limited Services"
+    },
+    {
+      "id": 69,
+      "insurance_name": "PEHP Advantage Care - Non State Inpatient"
+    },
+    {
+      "id": 70,
+      "insurance_name": "PEHP Advantage Care - Non State Outpatient"
+    },
+    {
+      "id": 71,
+      "insurance_name": "PEHP Advantage Care State Employees and Advantage Care Exclusive Inpatient"
+    },
+    {
+      "id": 72,
+      "insurance_name": "PEHP Advantage Care State Employees and Advantage Care Exclusive Outpatient"
+    },
+    {
+      "id": 73,
+      "insurance_name": "PEHP Capital Care Limited Services"
+    },
+    {
+      "id": 74,
+      "insurance_name": "PEHP Preferred Care Inpatient"
+    },
+    {
+      "id": 75,
+      "insurance_name": "PEHP Preferred Care Outpatient"
+    },
+    {
+      "id": 76,
+      "insurance_name": "PEHP Summit Care Limited Services"
+    },
+    {
+      "id": 77,
+      "insurance_name": "PEHP Summit Exclusive Limited Services"
+    },
+    {
+      "id": 78,
+      "insurance_name": "Petersen, Inc. Inpatient"
+    },
+    {
+      "id": 79,
+      "insurance_name": "Petersen, Inc. Outpatient"
+    },
+    {
+      "id": 80,
+      "insurance_name": "Prodegi Corporate Benefit Services, LLC Inpatient"
+    },
+    {
+      "id": 81,
+      "insurance_name": "Prodegi Corporate Benefit Services, LLC Outpatient"
+    },
+    {
+      "id": 82,
+      "insurance_name": "Provider Networks of America (PNOA) Inpatient"
+    },
+    {
+      "id": 83,
+      "insurance_name": "Provider Networks of America (PNOA) Outpatient"
+    },
+    {
+      "id": 84,
+      "insurance_name": "Regence BCBS Federal (FEHBP) Inpatient"
+    },
+    {
+      "id": 85,
+      "insurance_name": "Regence BCBS Federal (FEHBP) Outpatient"
+    },
+    {
+      "id": 86,
+      "insurance_name": "Regence BCBS Preferred BlueOption (PBO) Inpatient"
+    },
+    {
+      "id": 87,
+      "insurance_name": "Regence BCBS Preferred BlueOption (PBO) Limited Services-Inpatient"
+    },
+    {
+      "id": 88,
+      "insurance_name": "Regence BCBS Preferred BlueOption (PBO) Limited Services-Outpatient"
+    },
+    {
+      "id": 89,
+      "insurance_name": "Regence BCBS Preferred BlueOption (PBO) Outpatient"
+    },
+    {
+      "id": 90,
+      "insurance_name": "Regence BCBS Traditional Plan Inpatient"
+    },
+    {
+      "id": 91,
+      "insurance_name": "Regence BCBS Traditional Plan Outpatient"
+    },
+    {
+      "id": 92,
+      "insurance_name": "Regence BCBS ValueCare Limited Services"
+    },
+    {
+      "id": 93,
+      "insurance_name": "Regence BCBS ValueCare Limited Services-Inpatient"
+    },
+    {
+      "id": 94,
+      "insurance_name": "Regence BCBS ValueCare Limited Services-Outpatient"
+    },
+    {
+      "id": 95,
+      "insurance_name": "Regence Bridgespan RealValue Limited Services"
+    },
+    {
+      "id": 96,
+      "insurance_name": "Regence Focal Point Limited Services"
+    },
+    {
+      "id": 97,
+      "insurance_name": "Regence Individual and Family Network Limited Services"
+    },
+    {
+      "id": 98,
+      "insurance_name": "Regence SaveWell Limited Services"
+    },
+    {
+      "id": 99,
+      "insurance_name": "SelectHealth Care Network Inpatient"
+    },
+    {
+      "id": 100,
+      "insurance_name": "SelectHealth Care Network Outpatient"
+    },
+    {
+      "id": 101,
+      "insurance_name": "SelectHealth Med Network CHIP Inpatient"
+    },
+    {
+      "id": 102,
+      "insurance_name": "SelectHealth Med Network CHIP Outpatient"
+    },
+    {
+      "id": 103,
+      "insurance_name": "SelectHealth Med Network Federal Employee (FEHBP) Inpatient"
+    },
+    {
+      "id": 104,
+      "insurance_name": "SelectHealth Med Network Federal Employee (FEHBP) Outpatient"
+    },
+    {
+      "id": 105,
+      "insurance_name": "SelectHealth Med Network Individual Plan (ACA) Inpatient"
+    },
+    {
+      "id": 106,
+      "insurance_name": "SelectHealth Med Network Individual Plan (ACA) Outpatient"
+    },
+    {
+      "id": 107,
+      "insurance_name": "SelectHealth Med Network Inpatient"
+    },
+    {
+      "id": 108,
+      "insurance_name": "SelectHealth Med Network Outpatient"
+    },
+    {
+      "id": 109,
+      "insurance_name": "SelectHealth Share Network Inpatient"
+    },
+    {
+      "id": 110,
+      "insurance_name": "SelectHealth Share Network Outpatient"
+    },
+    {
+      "id": 111,
+      "insurance_name": "SelectHealth Signature Network Individual Plan (ACA) Inpatient"
+    },
+    {
+      "id": 112,
+      "insurance_name": "SelectHealth Signature Network Individual Plan (ACA) Outpatient"
+    },
+    {
+      "id": 113,
+      "insurance_name": "SelectHealth Value Network Individual Plan (ACA) Inpatient"
+    },
+    {
+      "id": 114,
+      "insurance_name": "SelectHealth Value Network Individual Plan (ACA) Outpatient"
+    },
+    {
+      "id": 115,
+      "insurance_name": "SelectHealth Value Network Inpatient"
+    },
+    {
+      "id": 116,
+      "insurance_name": "SelectHealth Value Network Outpatient"
+    },
+    {
+      "id": 117,
+      "insurance_name": "Sinclair Services Company Limited Services"
+    },
+    {
+      "id": 118,
+      "insurance_name": "SpringTide Inpatient"
+    },
+    {
+      "id": 119,
+      "insurance_name": "SpringTide Outpatient"
+    },
+    {
+      "id": 120,
+      "insurance_name": "Tanner LLC Inpatient"
+    },
+    {
+      "id": 121,
+      "insurance_name": "Tanner LLC Outpatient"
+    },
+    {
+      "id": 122,
+      "insurance_name": "Union Pacific Railroad Employes Health Limited Services"
+    },
+    {
+      "id": 123,
+      "insurance_name": "United Healthcare Choice Plus Network Inpatient"
+    },
+    {
+      "id": 124,
+      "insurance_name": "United Healthcare Choice Plus Network Outpatient"
+    },
+    {
+      "id": 125,
+      "insurance_name": "United Healthcare Choice Plus Network Outpatient_1"
+    },
+    {
+      "id": 126,
+      "insurance_name": "United Healthcare Options PPO Inpatient"
+    },
+    {
+      "id": 127,
+      "insurance_name": "United Healthcare Options PPO Outpatient"
+    },
+    {
+      "id": 128,
+      "insurance_name": "University of Utah Healthy Preferred - Marketplace Limited Services"
+    },
+    {
+      "id": 129,
+      "insurance_name": "University of Utah Healthy Preferred Limited Services"
+    },
+    {
+      "id": 130,
+      "insurance_name": "University of Utah Healthy Premier - Marketplace Limited Services"
+    },
+    {
+      "id": 131,
+      "insurance_name": "University of Utah Healthy Premier Limited Services"
+    },
+    {
+      "id": 132,
+      "insurance_name": "WCF Insurance Inpatient"
+    },
+    {
+      "id": 133,
+      "insurance_name": "WCF Insurance Outpatient"
+    },
+    {
+      "id": 134,
+      "insurance_name": "Wise Network Limited Services"
+    }
+   ]
